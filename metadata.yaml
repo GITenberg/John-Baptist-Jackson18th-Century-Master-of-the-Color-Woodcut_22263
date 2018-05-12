@@ -1,0 +1,27 @@
+_repo: John-Baptist-Jackson18th-Century-Master-of-the-Color-Woodcut_22263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kainen, Jacob
+    birthdate: 1909
+    deathdate: 2001
+    gutenberg_agent_id: '25222'
+    url: http://www.gutenberg.org/2009/agents/25222
+description: ''
+gutenberg_issued: '2007-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22263'
+  lccn: '62061542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Jackson, John Baptist, 1701-1780?'
+title: 'John Baptist Jackson: 18th-Century Master of the Color Woodcut'
+url: http://www.gutenberg.org/ebooks/22263
